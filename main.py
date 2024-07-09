@@ -6,7 +6,7 @@ def send_message():
     ฟังก์ชันสำหรับส่งข้อความไปทาง webhook ของ Discord
     """
     # กำหนด URL ของ webhook ที่จะส่งข้อความไป
-    webhook_url = "https://discord.com/api/webhooks/1154399027383775252/nqnFVnsQus90hTtkyfpt92QZnXQYdOE-2ixpcDT1cULC0ytmjnayz-l_LkePUQ9_feib"
+    webhook_url = "https://discord.com/api/webhooks/1260264408425173002/PX1HJpORKy-AdgzUIKFTtuCefbnOqlN8yT5GfuJBJDbbOcuj06ImRe6v28p_yYvwEiuh"
     
     # รับข้อความจากผู้ใช้
     message_content = input("กรุณาใส่ข้อความที่ต้องการส่ง: ")
